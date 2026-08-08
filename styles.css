@@ -9,7 +9,13 @@ html {
 * {
     background-color: whitesmoke;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(58, 58, 58)
+    margin: 0 auto;
+    padding: 50px;
 }
 
 .mainLogo {
